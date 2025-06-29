@@ -6,7 +6,7 @@ using UnityEngine;
 
 namespace Player.Runtime
 {
-    public class PlayerBehaviour : MonoBehaviour
+    public class PlayerBehaviour : Universe
     {
         public string m_playerName;
         private string _playerUUID;

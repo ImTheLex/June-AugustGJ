@@ -11,7 +11,7 @@ using Quaternion = UnityEngine.Quaternion;
 
 namespace Game
 {
-    public class GameManager : MonoBehaviour
+    public class GameManager : Universe
     {
         public bool m_canPlay;
         [SerializeField] private List<Transform> _playersSpawns;

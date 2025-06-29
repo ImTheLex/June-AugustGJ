@@ -11,7 +11,7 @@ using GameManager = Game.GameManager;
 
 namespace UI.Runtime
 {
-    public class UIController : MonoBehaviour
+    public class UIController : Universe
     {
         public UnityEvent m_saveEvent;
         public UnityEvent m_quitEvent;
