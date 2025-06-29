@@ -1,0 +1,17 @@
+{
+    "name": "Pool.Runtime",
+    "rootNamespace": "Pool.Runtime",
+    "references": [
+        "GUID:161b0d720807c784c977e7741b3e535a",
+        "GUID:44bc1d67601ff984b8c38e83b9969e20"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Studio.Runtime",
+    "rootNamespace": "Studio.Runtime",
+    "references": [
+        "GUID:b3791bc6db2a1574ea792aa38ecf5194"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
